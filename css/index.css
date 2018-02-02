@@ -24,33 +24,6 @@
     padding: 0px 4px;
     border-radius: 50px;
 }
-.head-search{
-    position: relative;
-    width: 72%;
-    margin: 0 auto;
-    line-height: 45px;
-}
-.head-search input{
-    width: 100%;
-    height: 30px;
-    line-height: 30px;
-    border: none;
-    background: #b52424;
-    background: rgba(0, 0, 0, 0.25);
-    padding-left: 30px;
-    border-radius: 4px;
-    font-size: 0.8rem;
-}
-.head-search input::-webkit-input-placeholder {color:#fff; font-size: 0.8rem;}
-.head-search input:-moz-placeholder {color:#fff; font-size: 0.8rem;}
-.head-search input::-moz-placeholder {color:#fff; font-size: 0.8rem;}
-.head-search input:-ms-input-placeholder {color:#fff; font-size: 0.8rem;}
-.head-search .fa-search{
-    position: absolute;
-    top: 50%;
-    margin-top: -8px;
-    left: 8px;
-}
 .swiper-slide img{
     width: 100%;
 }

@@ -57,6 +57,9 @@ a{color: inherit; text-decoration: none !important;}
     font-size: 1.5rem;
     right: 10px;
 }
+.zyw-header .head-r a{
+    font-size: 1.2rem;
+}
 .zyw-header h1{
     text-align: center;
     font-size: 1.5rem;
@@ -90,3 +93,31 @@ a{color: inherit; text-decoration: none !important;}
 }
 .weui-cells .weui-cell{border-bottom: 1px solid #f6f6f6;}
 .weui-cells .weui-cell:last-child{border-bottom: none;}
+/*首页头部*/
+.head-search{
+    position: relative;
+    width: 72%;
+    margin: 0 auto;
+    line-height: 45px;
+}
+.head-search input{
+    width: 100%;
+    height: 30px;
+    line-height: 30px;
+    border: none;
+    background: #b52424;
+    background: rgba(0, 0, 0, 0.25);
+    padding-left: 30px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+}
+.head-search input::-webkit-input-placeholder {color:#fff; font-size: 0.8rem;}
+.head-search input:-moz-placeholder {color:#fff; font-size: 0.8rem;}
+.head-search input::-moz-placeholder {color:#fff; font-size: 0.8rem;}
+.head-search input:-ms-input-placeholder {color:#fff; font-size: 0.8rem;}
+.head-search .fa-search{
+    position: absolute;
+    top: 50%;
+    margin-top: -8px;
+    left: 8px;
+}
