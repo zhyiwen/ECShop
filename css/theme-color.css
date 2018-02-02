@@ -1,0 +1,6 @@
+.theme-color{color: #f23030 !important;}
+.theme-bgcolor{background: #f23030 !important;}
+.weui-count .weui-count__btn {border: 1px solid #f23030; }
+.weui-count .weui-count__increase {background-color: #f23030; }
+.weui-count .weui-count__btn:after, .weui-count .weui-count__btn:before {background-color: #f23030; }
+.weui-count .weui-count__increase:after, .weui-count .weui-count__increase:before {background-color: #fff; }
