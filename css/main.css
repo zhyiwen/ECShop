@@ -34,6 +34,8 @@ a{color: inherit; text-decoration: none !important;}
     top: 0;
     height: 45px;
     line-height: 45px;
+    background: url("../img/head-bg.jpg") no-repeat;
+    background-size: 100%;
 }
 .zyw-footer {
     bottom: 0;
@@ -121,3 +123,33 @@ a{color: inherit; text-decoration: none !important;}
     margin-top: -8px;
     left: 8px;
 }
+
+/*tab层样式*/
+.weui-navbar {
+    background-color: #fff;
+}
+.weui-navbar__item {
+    padding: 9px 0;
+    font-size: 14px;
+    color: #444;
+}
+.weui-navbar__item:after {
+    border-right: none;
+}
+.weui-navbar__item.weui-bar__item--on {
+    color: #f23030;
+    background: none;
+    border-bottom: #f23030 2px solid;
+}
+/*.weui-navbar__item.weui-bar__item--on:after{*/
+    /*display: block;*/
+    /*content: '';*/
+    /*width: 100%;*/
+    /*height: 2px;*/
+    /*bottom: 0;*/
+    /*left: 0;*/
+    /*margin-left: -31px;*/
+    /*top: auto;*/
+    /*border-radius: 2px;*/
+    /*background-color: #f23030;*/
+/*}*/

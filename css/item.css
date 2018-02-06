@@ -188,3 +188,13 @@
     line-height: 2rem;
     padding-left: 10px;
 }
+.item-precent{
+    padding: 5px 0;
+}
+.item-precent h4{
+    text-align: center;
+    font-size: 1.2rem;
+}
+.item-precent img{
+    width: 100%;
+}
