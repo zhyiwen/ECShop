@@ -13,9 +13,7 @@
     font-size: 1.2rem;
 }
 .find-cart .cart-tab.active{
-    color: #f23030;
     font-weight: bold;
-    border-bottom: 2px solid #f23030;
 }
 .find-slider{
     position: relative;
@@ -52,9 +50,7 @@
 }
 .group1-hd .hd-take{
     display: block;
-    border: 1px solid #f23030;
     padding: 0px 5px;
-    color: #f23030;
     margin-top: 10px;
     font-size: 1rem;
 }

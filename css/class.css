@@ -49,7 +49,6 @@
     border-bottom: transparent;
 }
 .class-cont .class-hd>li.active>a, .class-cont .class-hd>li.active>a:focus, .class-cont .class-hd>li.active>a:hover {
-    color: #f23030;
     cursor: default;
     background-color: #fff;
     border: none;

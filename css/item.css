@@ -129,10 +129,6 @@
     margin-bottom: 10px;
     padding: 4px 8px;
 }
-.item-spec-layer .spec-info .spec-info-bd ul li.active{
-    border-color: #f23030;
-    color: #f23030;
-}
 .item-spec-layer .spec-length{
     border-bottom: 1px solid #f6f6f6;
     padding-left: 0.625rem;

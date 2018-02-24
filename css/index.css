@@ -20,7 +20,6 @@
     right: -6px;
     background: #fff;
     line-height: initial;
-    color: #f23030;
     padding: 0px 4px;
     border-radius: 50px;
 }
@@ -29,7 +28,6 @@
 }
 .swiper-pagination-bullet-active {
     opacity: 1;
-    background: #f23030;
 }
 .index-class{
     padding: 1.5rem 0.625rem;
@@ -62,7 +60,6 @@
 .index-news .news-cont strong em{
     font-style: normal;
     font-size: 0.8rem;
-    background: #f23030;
     color: #fff;
     padding: 1px 2px 0;
     margin-left: 2px;
