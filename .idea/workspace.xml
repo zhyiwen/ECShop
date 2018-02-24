@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="378d3510-8ae7-4899-ad0a-8d40219419d7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/class.css" afterPath="$PROJECT_DIR$/css/class.css" />
-      <change beforePath="$PROJECT_DIR$/css/find.css" afterPath="$PROJECT_DIR$/css/find.css" />
       <change beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
-      <change beforePath="$PROJECT_DIR$/css/item.css" afterPath="$PROJECT_DIR$/css/item.css" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/css/order.css" afterPath="$PROJECT_DIR$/css/order.css" />
       <change beforePath="$PROJECT_DIR$/css/theme-color.css" afterPath="$PROJECT_DIR$/css/theme-color.css" />
-      <change beforePath="$PROJECT_DIR$/img/head-bg.jpg" afterPath="$PROJECT_DIR$/img/head-bg.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/svg/foot-1-1.svg" afterPath="$PROJECT_DIR$/img/svg/foot-1-1.svg" />
-      <change beforePath="$PROJECT_DIR$/img/svg/foot-2-1.svg" afterPath="$PROJECT_DIR$/img/svg/foot-2-1.svg" />
-      <change beforePath="$PROJECT_DIR$/img/svg/foot-3-1.svg" afterPath="$PROJECT_DIR$/img/svg/foot-3-1.svg" />
-      <change beforePath="$PROJECT_DIR$/img/svg/foot-4-1.svg" afterPath="$PROJECT_DIR$/img/svg/foot-4-1.svg" />
-      <change beforePath="$PROJECT_DIR$/img/svg/foot-5-1.svg" afterPath="$PROJECT_DIR$/img/svg/foot-5-1.svg" />
-      <change beforePath="$PROJECT_DIR$/img/svg/home-1.svg" afterPath="$PROJECT_DIR$/img/svg/home-1.svg" />
-      <change beforePath="$PROJECT_DIR$/img/svg/home-2.svg" afterPath="$PROJECT_DIR$/img/svg/home-2.svg" />
-      <change beforePath="$PROJECT_DIR$/img/svg/home-3.svg" afterPath="$PROJECT_DIR$/img/svg/home-3.svg" />
-      <change beforePath="$PROJECT_DIR$/img/svg/home-4.svg" afterPath="$PROJECT_DIR$/img/svg/home-4.svg" />
-      <change beforePath="$PROJECT_DIR$/img/svg/home-5.svg" afterPath="$PROJECT_DIR$/img/svg/home-5.svg" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/order.html" afterPath="$PROJECT_DIR$/order.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,14 +30,24 @@
       <file leaf-file-name="theme-color.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/theme-color.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+            <state relative-caret-position="264">
+              <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="359">
@@ -101,8 +92,8 @@
       <find>.wares</find>
       <find>module-layer-content</find>
       <find>0.7rem</find>
-      <find>限时秒杀</find>
       <find>btn-danger</find>
+      <find>限时秒杀</find>
       <find>#f23030</find>
     </findStrings>
     <replaceStrings>
@@ -145,12 +136,12 @@
         <option value="$PROJECT_DIR$/css/order.css" />
         <option value="$PROJECT_DIR$/css/find.css" />
         <option value="$PROJECT_DIR$/css/item.css" />
-        <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/css/class.css" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/order.html" />
-        <option value="$PROJECT_DIR$/css/theme-color.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/theme-color.css" />
+        <option value="$PROJECT_DIR$/css/index.css" />
       </list>
     </option>
   </component>
@@ -254,12 +245,12 @@
       <workItem from="1518313432033" duration="12874000" />
       <workItem from="1519267679327" duration="1097000" />
       <workItem from="1519366876777" duration="9113000" />
-      <workItem from="1519438032586" duration="2440000" />
+      <workItem from="1519438032586" duration="2740000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119907000" />
+    <option name="totallyTimeSpent" value="120207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -559,14 +550,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3715">
-          <caret line="61" column="22" lean-forward="false" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/home.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="749">
@@ -631,18 +614,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/theme-color.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="70" column="138" lean-forward="false" selection-start-line="70" selection-start-column="138" selection-end-line="70" selection-end-column="138" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme-color.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
           <folding />
         </state>
       </provider>
