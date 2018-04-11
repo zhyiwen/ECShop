@@ -2853,6 +2853,7 @@ img {
 	border-bottom: solid 1px #eee;
 	padding: 0 4%;
 	line-height: 45px;
+	list-style-type: none;
 }
 
 .account_info li .info_name {
